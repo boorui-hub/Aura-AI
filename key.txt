@@ -1,0 +1,6 @@
+https://supabase.com/ 
+数据库密钥：b488iL3Ek4T63Ep7
+
+项目地址：https://wtviqdxbsijeneqcmhvs.supabase.co
+发布密钥：sb_publishable_xNREwtHFhS-pvfJVs6BexQ_glXrnzDx
+数据库：postgresql://postgres:[YOUR-PASSWORD]@db.wtviqdxbsijeneqcmhvs.supabase.co:5432/postgres
